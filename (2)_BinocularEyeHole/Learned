@@ -1,0 +1,10 @@
+Creating a Circular Array
+
+Summary:
+This technique is used to wrap objects circularly around a point.
+
+How to:
+The ridge used to scroll the zoom was created by a ciruclar array.
+This was done by offseting the verticies of the first ridge from the center point.
+Createing an empty cube over the origin.
+Putting an array modifier on with the offset based on the empty cube.
